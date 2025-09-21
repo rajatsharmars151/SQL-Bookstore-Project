@@ -1,0 +1,8 @@
+USE BS;
+Go
+CREATE TABLE Authors(
+AuthorID INT PRIMARY KEY NOT NULL,
+AuthorName VARCHAR (100) NOT NULl,
+Country VARCHAR (30),
+);
+

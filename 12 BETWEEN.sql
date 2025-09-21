@@ -1,0 +1,4 @@
+USE BS;
+Go
+SELECT Title, Price from Books
+WHERE PRICE BETWEEN 300 AND 500;

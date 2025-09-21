@@ -1,0 +1,4 @@
+CREATE DATABASE BS;
+Go
+USE BS;
+Go

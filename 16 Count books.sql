@@ -1,0 +1,3 @@
+USE BS;
+Go
+SELECT COUNT(*) FROM Books;
