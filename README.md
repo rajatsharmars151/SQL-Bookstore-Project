@@ -122,7 +122,7 @@ GitHub for version control & project hosting
 
 
 ## ER Diagram
-![ER Diagram](ER Diagram.png)
+![ER Diagram](https://github.com/rajatsharmars151/SQL-Bookstore-Project/blob/main/ER%20Diagram.png)
 
 
 
