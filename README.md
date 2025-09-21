@@ -122,7 +122,7 @@ GitHub for version control & project hosting
 
 
 ## ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER Diagram.png)
 
 
 
